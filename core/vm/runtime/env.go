@@ -17,8 +17,8 @@
 package runtime
 
 import (
-	"github.com/Pond-International/go-ethereum/core"
-	"github.com/Pond-International/go-ethereum/core/vm"
+	"github.com/Pond-International/arb-go-ethereum/core"
+	"github.com/Pond-International/arb-go-ethereum/core/vm"
 )
 
 func NewEnv(cfg *Config) *vm.EVM {

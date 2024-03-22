@@ -19,15 +19,15 @@ package main
 import (
 	"strconv"
 
-	"github.com/Pond-International/go-ethereum/accounts"
-	"github.com/Pond-International/go-ethereum/accounts/abi/bind"
-	"github.com/Pond-International/go-ethereum/accounts/external"
-	"github.com/Pond-International/go-ethereum/cmd/utils"
-	"github.com/Pond-International/go-ethereum/common"
-	"github.com/Pond-International/go-ethereum/contracts/checkpointoracle"
-	"github.com/Pond-International/go-ethereum/ethclient"
-	"github.com/Pond-International/go-ethereum/params"
-	"github.com/Pond-International/go-ethereum/rpc"
+	"github.com/Pond-International/arb-go-ethereum/accounts"
+	"github.com/Pond-International/arb-go-ethereum/accounts/abi/bind"
+	"github.com/Pond-International/arb-go-ethereum/accounts/external"
+	"github.com/Pond-International/arb-go-ethereum/cmd/utils"
+	"github.com/Pond-International/arb-go-ethereum/common"
+	"github.com/Pond-International/arb-go-ethereum/contracts/checkpointoracle"
+	"github.com/Pond-International/arb-go-ethereum/ethclient"
+	"github.com/Pond-International/arb-go-ethereum/params"
+	"github.com/Pond-International/arb-go-ethereum/rpc"
 	"github.com/urfave/cli/v2"
 )
 

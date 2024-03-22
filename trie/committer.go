@@ -19,7 +19,7 @@ package trie
 import (
 	"fmt"
 
-	"github.com/Pond-International/go-ethereum/common"
+	"github.com/Pond-International/arb-go-ethereum/common"
 )
 
 // leaf represents a trie leaf node

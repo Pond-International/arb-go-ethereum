@@ -23,8 +23,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Pond-International/go-ethereum/internal/cmdtest"
-	"github.com/Pond-International/go-ethereum/rpc"
+	"github.com/Pond-International/arb-go-ethereum/internal/cmdtest"
+	"github.com/Pond-International/arb-go-ethereum/rpc"
 	"github.com/docker/docker/pkg/reexec"
 )
 

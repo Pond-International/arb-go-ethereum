@@ -26,7 +26,7 @@ import (
 	"unicode"
 	"unicode/utf8"
 
-	"github.com/Pond-International/go-ethereum/common"
+	"github.com/Pond-International/arb-go-ethereum/common"
 )
 
 // Type enumerator

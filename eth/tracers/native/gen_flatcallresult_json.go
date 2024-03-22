@@ -5,8 +5,8 @@ package native
 import (
 	"encoding/json"
 
-	"github.com/Pond-International/go-ethereum/common"
-	"github.com/Pond-International/go-ethereum/common/hexutil"
+	"github.com/Pond-International/arb-go-ethereum/common"
+	"github.com/Pond-International/arb-go-ethereum/common/hexutil"
 )
 
 var _ = (*flatCallResultMarshaling)(nil)

@@ -19,7 +19,7 @@ package p2p
 import (
 	"container/heap"
 
-	"github.com/Pond-International/go-ethereum/common/mclock"
+	"github.com/Pond-International/arb-go-ethereum/common/mclock"
 )
 
 // expHeap tracks strings and their expiry time.

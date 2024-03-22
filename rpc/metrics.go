@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/Pond-International/go-ethereum/metrics"
+	"github.com/Pond-International/arb-go-ethereum/metrics"
 )
 
 var (

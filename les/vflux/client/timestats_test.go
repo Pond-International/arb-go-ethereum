@@ -22,7 +22,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Pond-International/go-ethereum/les/utils"
+	"github.com/Pond-International/arb-go-ethereum/les/utils"
 )
 
 func TestTransition(t *testing.T) {

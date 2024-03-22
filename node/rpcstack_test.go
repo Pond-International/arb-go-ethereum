@@ -28,9 +28,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Pond-International/go-ethereum/internal/testlog"
-	"github.com/Pond-International/go-ethereum/log"
-	"github.com/Pond-International/go-ethereum/rpc"
+	"github.com/Pond-International/arb-go-ethereum/internal/testlog"
+	"github.com/Pond-International/arb-go-ethereum/log"
+	"github.com/Pond-International/arb-go-ethereum/rpc"
 	"github.com/golang-jwt/jwt/v4"
 	"github.com/gorilla/websocket"
 	"github.com/stretchr/testify/assert"

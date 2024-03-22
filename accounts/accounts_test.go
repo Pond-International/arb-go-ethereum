@@ -20,7 +20,7 @@ import (
 	"bytes"
 	"testing"
 
-	"github.com/Pond-International/go-ethereum/common/hexutil"
+	"github.com/Pond-International/arb-go-ethereum/common/hexutil"
 )
 
 func TestTextHash(t *testing.T) {

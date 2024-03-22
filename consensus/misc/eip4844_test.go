@@ -21,7 +21,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/Pond-International/go-ethereum/params"
+	"github.com/Pond-International/arb-go-ethereum/params"
 )
 
 func TestCalcBlobFee(t *testing.T) {

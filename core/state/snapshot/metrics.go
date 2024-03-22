@@ -16,7 +16,7 @@
 
 package snapshot
 
-import "github.com/Pond-International/go-ethereum/metrics"
+import "github.com/Pond-International/arb-go-ethereum/metrics"
 
 // Metrics in generation
 var (

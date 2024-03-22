@@ -26,17 +26,17 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Pond-International/go-ethereum"
-	"github.com/Pond-International/go-ethereum/common"
-	"github.com/Pond-International/go-ethereum/consensus/ethash"
-	"github.com/Pond-International/go-ethereum/core"
-	"github.com/Pond-International/go-ethereum/core/types"
-	"github.com/Pond-International/go-ethereum/crypto"
-	"github.com/Pond-International/go-ethereum/eth"
-	"github.com/Pond-International/go-ethereum/eth/ethconfig"
-	"github.com/Pond-International/go-ethereum/node"
-	"github.com/Pond-International/go-ethereum/params"
-	"github.com/Pond-International/go-ethereum/rpc"
+	"github.com/Pond-International/arb-go-ethereum"
+	"github.com/Pond-International/arb-go-ethereum/common"
+	"github.com/Pond-International/arb-go-ethereum/consensus/ethash"
+	"github.com/Pond-International/arb-go-ethereum/core"
+	"github.com/Pond-International/arb-go-ethereum/core/types"
+	"github.com/Pond-International/arb-go-ethereum/crypto"
+	"github.com/Pond-International/arb-go-ethereum/eth"
+	"github.com/Pond-International/arb-go-ethereum/eth/ethconfig"
+	"github.com/Pond-International/arb-go-ethereum/node"
+	"github.com/Pond-International/arb-go-ethereum/params"
+	"github.com/Pond-International/arb-go-ethereum/rpc"
 )
 
 // Verify that Client implements the ethereum interfaces.

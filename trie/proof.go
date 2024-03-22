@@ -21,9 +21,9 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/Pond-International/go-ethereum/common"
-	"github.com/Pond-International/go-ethereum/ethdb"
-	"github.com/Pond-International/go-ethereum/log"
+	"github.com/Pond-International/arb-go-ethereum/common"
+	"github.com/Pond-International/arb-go-ethereum/ethdb"
+	"github.com/Pond-International/arb-go-ethereum/log"
 )
 
 // Prove constructs a merkle proof for key. The result contains all encoded nodes

@@ -19,7 +19,7 @@ package bitutil
 import (
 	"bytes"
 
-	"github.com/Pond-International/go-ethereum/common/bitutil"
+	"github.com/Pond-International/arb-go-ethereum/common/bitutil"
 )
 
 // Fuzz implements a go-fuzz fuzzer method to test various encoding method

@@ -22,10 +22,10 @@ import (
 	"io/fs"
 	"os"
 
-	"github.com/Pond-International/go-ethereum/common"
-	"github.com/Pond-International/go-ethereum/core/types"
-	"github.com/Pond-International/go-ethereum/log"
-	"github.com/Pond-International/go-ethereum/rlp"
+	"github.com/Pond-International/arb-go-ethereum/common"
+	"github.com/Pond-International/arb-go-ethereum/core/types"
+	"github.com/Pond-International/arb-go-ethereum/log"
+	"github.com/Pond-International/arb-go-ethereum/rlp"
 )
 
 // errNoActiveJournal is returned if a transaction is attempted to be inserted

@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"time"
 
-	"github.com/Pond-International/go-ethereum/p2p"
+	"github.com/Pond-International/arb-go-ethereum/p2p"
 )
 
 var (

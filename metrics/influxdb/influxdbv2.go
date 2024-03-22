@@ -4,8 +4,8 @@ import (
 	"context"
 	"time"
 
-	"github.com/Pond-International/go-ethereum/log"
-	"github.com/Pond-International/go-ethereum/metrics"
+	"github.com/Pond-International/arb-go-ethereum/log"
+	"github.com/Pond-International/arb-go-ethereum/metrics"
 	influxdb2 "github.com/influxdata/influxdb-client-go/v2"
 	"github.com/influxdata/influxdb-client-go/v2/api"
 )

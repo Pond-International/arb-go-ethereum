@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"sort"
 
-	"github.com/Pond-International/go-ethereum/common"
-	"github.com/Pond-International/go-ethereum/params"
+	"github.com/Pond-International/arb-go-ethereum/common"
+	"github.com/Pond-International/arb-go-ethereum/params"
 	"github.com/holiman/uint256"
 )
 

@@ -21,9 +21,9 @@ import (
 	"math/big"
 	"time"
 
-	"github.com/Pond-International/go-ethereum/common"
-	"github.com/Pond-International/go-ethereum/core/forkid"
-	"github.com/Pond-International/go-ethereum/p2p"
+	"github.com/Pond-International/arb-go-ethereum/common"
+	"github.com/Pond-International/arb-go-ethereum/core/forkid"
+	"github.com/Pond-International/arb-go-ethereum/p2p"
 )
 
 const (

@@ -19,7 +19,7 @@ package types
 import (
 	"math/big"
 
-	"github.com/Pond-International/go-ethereum/common"
+	"github.com/Pond-International/arb-go-ethereum/common"
 )
 
 // LegacyTx is the transaction data of regular Ethereum transactions.

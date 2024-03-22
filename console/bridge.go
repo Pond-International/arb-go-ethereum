@@ -24,12 +24,12 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Pond-International/go-ethereum/accounts/scwallet"
-	"github.com/Pond-International/go-ethereum/accounts/usbwallet"
-	"github.com/Pond-International/go-ethereum/common/hexutil"
-	"github.com/Pond-International/go-ethereum/console/prompt"
-	"github.com/Pond-International/go-ethereum/internal/jsre"
-	"github.com/Pond-International/go-ethereum/rpc"
+	"github.com/Pond-International/arb-go-ethereum/accounts/scwallet"
+	"github.com/Pond-International/arb-go-ethereum/accounts/usbwallet"
+	"github.com/Pond-International/arb-go-ethereum/common/hexutil"
+	"github.com/Pond-International/arb-go-ethereum/console/prompt"
+	"github.com/Pond-International/arb-go-ethereum/internal/jsre"
+	"github.com/Pond-International/arb-go-ethereum/rpc"
 	"github.com/dop251/goja"
 )
 

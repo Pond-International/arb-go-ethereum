@@ -20,7 +20,7 @@ import (
 	"math"
 	"math/rand"
 
-	"github.com/Pond-International/go-ethereum/log"
+	"github.com/Pond-International/arb-go-ethereum/log"
 )
 
 type (

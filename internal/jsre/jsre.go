@@ -27,7 +27,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/Pond-International/go-ethereum/common"
+	"github.com/Pond-International/arb-go-ethereum/common"
 	"github.com/dop251/goja"
 )
 

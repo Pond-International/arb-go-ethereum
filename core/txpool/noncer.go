@@ -19,8 +19,8 @@ package txpool
 import (
 	"sync"
 
-	"github.com/Pond-International/go-ethereum/common"
-	"github.com/Pond-International/go-ethereum/core/state"
+	"github.com/Pond-International/arb-go-ethereum/common"
+	"github.com/Pond-International/arb-go-ethereum/core/state"
 )
 
 // noncer is a tiny virtual state database to manage the executable nonces of

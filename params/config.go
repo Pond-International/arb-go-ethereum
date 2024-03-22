@@ -23,7 +23,7 @@ import (
 
 	"golang.org/x/crypto/sha3"
 
-	"github.com/Pond-International/go-ethereum/common"
+	"github.com/Pond-International/arb-go-ethereum/common"
 )
 
 // Genesis hashes to enforce below configs on.

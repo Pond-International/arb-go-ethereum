@@ -22,11 +22,11 @@ import (
 	"os"
 	"strings"
 
-	"github.com/Pond-International/go-ethereum/internal/ethapi"
-	"github.com/Pond-International/go-ethereum/internal/jsre/deps"
-	"github.com/Pond-International/go-ethereum/log"
-	"github.com/Pond-International/go-ethereum/signer/core"
-	"github.com/Pond-International/go-ethereum/signer/storage"
+	"github.com/Pond-International/arb-go-ethereum/internal/ethapi"
+	"github.com/Pond-International/arb-go-ethereum/internal/jsre/deps"
+	"github.com/Pond-International/arb-go-ethereum/log"
+	"github.com/Pond-International/arb-go-ethereum/signer/core"
+	"github.com/Pond-International/arb-go-ethereum/signer/storage"
 	"github.com/dop251/goja"
 )
 

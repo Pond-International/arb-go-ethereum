@@ -22,8 +22,8 @@ import (
 	"reflect"
 	"testing"
 
-	"github.com/Pond-International/go-ethereum/crypto"
-	"github.com/Pond-International/go-ethereum/rlp"
+	"github.com/Pond-International/arb-go-ethereum/crypto"
+	"github.com/Pond-International/arb-go-ethereum/rlp"
 	"github.com/davecgh/go-spew/spew"
 )
 

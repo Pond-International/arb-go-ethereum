@@ -22,8 +22,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/Pond-International/go-ethereum/accounts/abi"
-	"github.com/Pond-International/go-ethereum/common"
+	"github.com/Pond-International/arb-go-ethereum/accounts/abi"
+	"github.com/Pond-International/arb-go-ethereum/common"
 )
 
 // decodedCallData is an internal type to represent a method call parsed according

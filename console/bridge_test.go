@@ -19,7 +19,7 @@ package console
 import (
 	"testing"
 
-	"github.com/Pond-International/go-ethereum/internal/jsre"
+	"github.com/Pond-International/arb-go-ethereum/internal/jsre"
 	"github.com/dop251/goja"
 )
 

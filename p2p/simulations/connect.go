@@ -20,7 +20,7 @@ import (
 	"errors"
 	"strings"
 
-	"github.com/Pond-International/go-ethereum/p2p/enode"
+	"github.com/Pond-International/arb-go-ethereum/p2p/enode"
 )
 
 var (

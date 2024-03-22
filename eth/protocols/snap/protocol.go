@@ -20,9 +20,9 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/Pond-International/go-ethereum/common"
-	"github.com/Pond-International/go-ethereum/core/state/snapshot"
-	"github.com/Pond-International/go-ethereum/rlp"
+	"github.com/Pond-International/arb-go-ethereum/common"
+	"github.com/Pond-International/arb-go-ethereum/core/state/snapshot"
+	"github.com/Pond-International/arb-go-ethereum/rlp"
 )
 
 // Constants to match up protocol versions and messages

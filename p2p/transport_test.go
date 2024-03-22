@@ -22,8 +22,8 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/Pond-International/go-ethereum/crypto"
-	"github.com/Pond-International/go-ethereum/p2p/simulations/pipes"
+	"github.com/Pond-International/arb-go-ethereum/crypto"
+	"github.com/Pond-International/arb-go-ethereum/p2p/simulations/pipes"
 	"github.com/davecgh/go-spew/spew"
 )
 

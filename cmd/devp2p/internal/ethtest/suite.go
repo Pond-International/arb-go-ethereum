@@ -19,10 +19,10 @@ package ethtest
 import (
 	"time"
 
-	"github.com/Pond-International/go-ethereum/common"
-	"github.com/Pond-International/go-ethereum/eth/protocols/eth"
-	"github.com/Pond-International/go-ethereum/internal/utesting"
-	"github.com/Pond-International/go-ethereum/p2p/enode"
+	"github.com/Pond-International/arb-go-ethereum/common"
+	"github.com/Pond-International/arb-go-ethereum/eth/protocols/eth"
+	"github.com/Pond-International/arb-go-ethereum/internal/utesting"
+	"github.com/Pond-International/arb-go-ethereum/p2p/enode"
 )
 
 // Suite represents a structure used to test a node's conformance

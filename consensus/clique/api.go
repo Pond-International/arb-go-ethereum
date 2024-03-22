@@ -20,12 +20,12 @@ import (
 	"encoding/json"
 	"fmt"
 
-	"github.com/Pond-International/go-ethereum/common"
-	"github.com/Pond-International/go-ethereum/common/hexutil"
-	"github.com/Pond-International/go-ethereum/consensus"
-	"github.com/Pond-International/go-ethereum/core/types"
-	"github.com/Pond-International/go-ethereum/rlp"
-	"github.com/Pond-International/go-ethereum/rpc"
+	"github.com/Pond-International/arb-go-ethereum/common"
+	"github.com/Pond-International/arb-go-ethereum/common/hexutil"
+	"github.com/Pond-International/arb-go-ethereum/consensus"
+	"github.com/Pond-International/arb-go-ethereum/core/types"
+	"github.com/Pond-International/arb-go-ethereum/rlp"
+	"github.com/Pond-International/arb-go-ethereum/rpc"
 )
 
 // API is a user facing RPC API to allow controlling the signer and voting

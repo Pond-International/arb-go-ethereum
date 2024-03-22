@@ -25,8 +25,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/Pond-International/go-ethereum/log"
-	"github.com/Pond-International/go-ethereum/p2p/dnsdisc"
+	"github.com/Pond-International/arb-go-ethereum/log"
+	"github.com/Pond-International/arb-go-ethereum/p2p/dnsdisc"
 	"github.com/aws/aws-sdk-go-v2/aws"
 	"github.com/aws/aws-sdk-go-v2/config"
 	"github.com/aws/aws-sdk-go-v2/credentials"

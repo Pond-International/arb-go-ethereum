@@ -19,7 +19,7 @@ package vm
 import (
 	"errors"
 
-	"github.com/Pond-International/go-ethereum/params"
+	"github.com/Pond-International/arb-go-ethereum/params"
 )
 
 // LookupInstructionSet returns the instructionset for the fork configured by

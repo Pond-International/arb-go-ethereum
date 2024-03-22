@@ -33,8 +33,8 @@ import (
 	"sort"
 	"strconv"
 
-	"github.com/Pond-International/go-ethereum/core"
-	"github.com/Pond-International/go-ethereum/rlp"
+	"github.com/Pond-International/arb-go-ethereum/core"
+	"github.com/Pond-International/arb-go-ethereum/rlp"
 )
 
 type allocItem struct{ Addr, Balance *big.Int }

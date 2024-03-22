@@ -3,7 +3,7 @@ package influxdb
 import (
 	"fmt"
 
-	"github.com/Pond-International/go-ethereum/metrics"
+	"github.com/Pond-International/arb-go-ethereum/metrics"
 )
 
 func readMeter(namespace, name string, i interface{}) (string, map[string]interface{}) {

@@ -24,8 +24,8 @@ import (
 	"testing"
 	"testing/quick"
 
-	"github.com/Pond-International/go-ethereum/p2p/enr"
-	"github.com/Pond-International/go-ethereum/rlp"
+	"github.com/Pond-International/arb-go-ethereum/p2p/enr"
+	"github.com/Pond-International/arb-go-ethereum/rlp"
 	"github.com/stretchr/testify/assert"
 )
 

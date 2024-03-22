@@ -19,12 +19,12 @@ package tests
 import (
 	"fmt"
 
-	"github.com/Pond-International/go-ethereum/common"
-	"github.com/Pond-International/go-ethereum/common/hexutil"
-	"github.com/Pond-International/go-ethereum/core"
-	"github.com/Pond-International/go-ethereum/core/types"
-	"github.com/Pond-International/go-ethereum/params"
-	"github.com/Pond-International/go-ethereum/rlp"
+	"github.com/Pond-International/arb-go-ethereum/common"
+	"github.com/Pond-International/arb-go-ethereum/common/hexutil"
+	"github.com/Pond-International/arb-go-ethereum/core"
+	"github.com/Pond-International/arb-go-ethereum/core/types"
+	"github.com/Pond-International/arb-go-ethereum/params"
+	"github.com/Pond-International/arb-go-ethereum/rlp"
 )
 
 // TransactionTest checks RLP decoding and sender derivation of transactions.

@@ -22,8 +22,8 @@ import (
 	"math/big"
 	"os"
 
-	"github.com/Pond-International/go-ethereum/cmd/evm/internal/t8ntool"
-	"github.com/Pond-International/go-ethereum/internal/flags"
+	"github.com/Pond-International/arb-go-ethereum/cmd/evm/internal/t8ntool"
+	"github.com/Pond-International/arb-go-ethereum/internal/flags"
 	"github.com/urfave/cli/v2"
 )
 

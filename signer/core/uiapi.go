@@ -24,11 +24,11 @@ import (
 	"math/big"
 	"os"
 
-	"github.com/Pond-International/go-ethereum/accounts"
-	"github.com/Pond-International/go-ethereum/accounts/keystore"
-	"github.com/Pond-International/go-ethereum/common"
-	"github.com/Pond-International/go-ethereum/common/math"
-	"github.com/Pond-International/go-ethereum/crypto"
+	"github.com/Pond-International/arb-go-ethereum/accounts"
+	"github.com/Pond-International/arb-go-ethereum/accounts/keystore"
+	"github.com/Pond-International/arb-go-ethereum/common"
+	"github.com/Pond-International/arb-go-ethereum/common/math"
+	"github.com/Pond-International/arb-go-ethereum/crypto"
 )
 
 // SignerUIAPI implements methods Clef provides for a UI to query, in the bidirectional communication

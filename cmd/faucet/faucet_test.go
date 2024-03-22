@@ -19,7 +19,7 @@ package main
 import (
 	"testing"
 
-	"github.com/Pond-International/go-ethereum/common"
+	"github.com/Pond-International/arb-go-ethereum/common"
 )
 
 func TestFacebook(t *testing.T) {

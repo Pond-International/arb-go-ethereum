@@ -19,9 +19,9 @@ package core
 import (
 	"context"
 
-	"github.com/Pond-International/go-ethereum/internal/ethapi"
-	"github.com/Pond-International/go-ethereum/log"
-	"github.com/Pond-International/go-ethereum/rpc"
+	"github.com/Pond-International/arb-go-ethereum/internal/ethapi"
+	"github.com/Pond-International/arb-go-ethereum/log"
+	"github.com/Pond-International/arb-go-ethereum/rpc"
 )
 
 type StdIOUI struct {

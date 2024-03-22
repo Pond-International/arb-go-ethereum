@@ -25,9 +25,9 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Pond-International/go-ethereum/common/hexutil"
-	"github.com/Pond-International/go-ethereum/crypto"
-	"github.com/Pond-International/go-ethereum/p2p/enode"
+	"github.com/Pond-International/arb-go-ethereum/common/hexutil"
+	"github.com/Pond-International/arb-go-ethereum/crypto"
+	"github.com/Pond-International/arb-go-ethereum/p2p/enode"
 )
 
 func TestVector_ECDH(t *testing.T) {

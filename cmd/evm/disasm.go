@@ -22,7 +22,7 @@ import (
 	"os"
 	"strings"
 
-	"github.com/Pond-International/go-ethereum/core/asm"
+	"github.com/Pond-International/arb-go-ethereum/core/asm"
 	"github.com/urfave/cli/v2"
 )
 

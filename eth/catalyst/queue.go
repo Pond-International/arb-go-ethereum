@@ -19,10 +19,10 @@ package catalyst
 import (
 	"sync"
 
-	"github.com/Pond-International/go-ethereum/beacon/engine"
-	"github.com/Pond-International/go-ethereum/common"
-	"github.com/Pond-International/go-ethereum/core/types"
-	"github.com/Pond-International/go-ethereum/miner"
+	"github.com/Pond-International/arb-go-ethereum/beacon/engine"
+	"github.com/Pond-International/arb-go-ethereum/common"
+	"github.com/Pond-International/arb-go-ethereum/core/types"
+	"github.com/Pond-International/arb-go-ethereum/miner"
 )
 
 // maxTrackedPayloads is the maximum number of prepared payloads the execution

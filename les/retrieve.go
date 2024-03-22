@@ -22,7 +22,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Pond-International/go-ethereum/light"
+	"github.com/Pond-International/arb-go-ethereum/light"
 )
 
 var (

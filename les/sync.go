@@ -21,12 +21,12 @@ import (
 	"errors"
 	"time"
 
-	"github.com/Pond-International/go-ethereum/common"
-	"github.com/Pond-International/go-ethereum/core/rawdb"
-	"github.com/Pond-International/go-ethereum/les/downloader"
-	"github.com/Pond-International/go-ethereum/light"
-	"github.com/Pond-International/go-ethereum/log"
-	"github.com/Pond-International/go-ethereum/params"
+	"github.com/Pond-International/arb-go-ethereum/common"
+	"github.com/Pond-International/arb-go-ethereum/core/rawdb"
+	"github.com/Pond-International/arb-go-ethereum/les/downloader"
+	"github.com/Pond-International/arb-go-ethereum/light"
+	"github.com/Pond-International/arb-go-ethereum/log"
+	"github.com/Pond-International/arb-go-ethereum/params"
 )
 
 var errInvalidCheckpoint = errors.New("invalid advertised checkpoint")

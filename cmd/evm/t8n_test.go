@@ -24,8 +24,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Pond-International/go-ethereum/cmd/evm/internal/t8ntool"
-	"github.com/Pond-International/go-ethereum/internal/cmdtest"
+	"github.com/Pond-International/arb-go-ethereum/cmd/evm/internal/t8ntool"
+	"github.com/Pond-International/arb-go-ethereum/internal/cmdtest"
 	"github.com/docker/docker/pkg/reexec"
 )
 

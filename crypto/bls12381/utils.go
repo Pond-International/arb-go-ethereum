@@ -20,7 +20,7 @@ import (
 	"errors"
 	"math/big"
 
-	"github.com/Pond-International/go-ethereum/common"
+	"github.com/Pond-International/arb-go-ethereum/common"
 )
 
 func bigFromHex(hex string) *big.Int {

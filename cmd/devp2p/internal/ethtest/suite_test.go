@@ -21,11 +21,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Pond-International/go-ethereum/eth"
-	"github.com/Pond-International/go-ethereum/eth/ethconfig"
-	"github.com/Pond-International/go-ethereum/internal/utesting"
-	"github.com/Pond-International/go-ethereum/node"
-	"github.com/Pond-International/go-ethereum/p2p"
+	"github.com/Pond-International/arb-go-ethereum/eth"
+	"github.com/Pond-International/arb-go-ethereum/eth/ethconfig"
+	"github.com/Pond-International/arb-go-ethereum/internal/utesting"
+	"github.com/Pond-International/arb-go-ethereum/node"
+	"github.com/Pond-International/arb-go-ethereum/p2p"
 )
 
 var (

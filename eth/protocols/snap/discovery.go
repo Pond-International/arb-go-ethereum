@@ -17,7 +17,7 @@
 package snap
 
 import (
-	"github.com/Pond-International/go-ethereum/rlp"
+	"github.com/Pond-International/arb-go-ethereum/rlp"
 )
 
 // enrEntry is the ENR entry which advertises `snap` protocol on the discovery.

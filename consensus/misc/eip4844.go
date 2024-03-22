@@ -19,7 +19,7 @@ package misc
 import (
 	"math/big"
 
-	"github.com/Pond-International/go-ethereum/params"
+	"github.com/Pond-International/arb-go-ethereum/params"
 )
 
 var (

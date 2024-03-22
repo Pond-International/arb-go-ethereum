@@ -21,7 +21,7 @@ import (
 	"encoding/hex"
 	"fmt"
 
-	"github.com/Pond-International/go-ethereum/core/vm"
+	"github.com/Pond-International/arb-go-ethereum/core/vm"
 )
 
 // Iterator for disassembled EVM instructions

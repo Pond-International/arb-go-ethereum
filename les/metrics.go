@@ -17,8 +17,8 @@
 package les
 
 import (
-	"github.com/Pond-International/go-ethereum/metrics"
-	"github.com/Pond-International/go-ethereum/p2p"
+	"github.com/Pond-International/arb-go-ethereum/metrics"
+	"github.com/Pond-International/arb-go-ethereum/p2p"
 )
 
 var (

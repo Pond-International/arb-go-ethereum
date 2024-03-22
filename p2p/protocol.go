@@ -19,8 +19,8 @@ package p2p
 import (
 	"fmt"
 
-	"github.com/Pond-International/go-ethereum/p2p/enode"
-	"github.com/Pond-International/go-ethereum/p2p/enr"
+	"github.com/Pond-International/arb-go-ethereum/p2p/enode"
+	"github.com/Pond-International/arb-go-ethereum/p2p/enr"
 )
 
 // Protocol represents a P2P subprotocol implementation.

@@ -27,13 +27,13 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Pond-International/go-ethereum/accounts/keystore"
-	"github.com/Pond-International/go-ethereum/common"
-	"github.com/Pond-International/go-ethereum/common/hexutil"
-	"github.com/Pond-International/go-ethereum/common/math"
-	"github.com/Pond-International/go-ethereum/crypto"
-	"github.com/Pond-International/go-ethereum/signer/core"
-	"github.com/Pond-International/go-ethereum/signer/core/apitypes"
+	"github.com/Pond-International/arb-go-ethereum/accounts/keystore"
+	"github.com/Pond-International/arb-go-ethereum/common"
+	"github.com/Pond-International/arb-go-ethereum/common/hexutil"
+	"github.com/Pond-International/arb-go-ethereum/common/math"
+	"github.com/Pond-International/arb-go-ethereum/crypto"
+	"github.com/Pond-International/arb-go-ethereum/signer/core"
+	"github.com/Pond-International/arb-go-ethereum/signer/core/apitypes"
 )
 
 var typesStandard = apitypes.Types{

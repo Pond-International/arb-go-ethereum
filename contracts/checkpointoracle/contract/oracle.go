@@ -7,12 +7,12 @@ import (
 	"math/big"
 	"strings"
 
-	ethereum "github.com/Pond-International/go-ethereum"
-	"github.com/Pond-International/go-ethereum/accounts/abi"
-	"github.com/Pond-International/go-ethereum/accounts/abi/bind"
-	"github.com/Pond-International/go-ethereum/common"
-	"github.com/Pond-International/go-ethereum/core/types"
-	"github.com/Pond-International/go-ethereum/event"
+	ethereum "github.com/Pond-International/arb-go-ethereum"
+	"github.com/Pond-International/arb-go-ethereum/accounts/abi"
+	"github.com/Pond-International/arb-go-ethereum/accounts/abi/bind"
+	"github.com/Pond-International/arb-go-ethereum/common"
+	"github.com/Pond-International/arb-go-ethereum/core/types"
+	"github.com/Pond-International/arb-go-ethereum/event"
 )
 
 // Reference imports to suppress errors if they are not otherwise used.

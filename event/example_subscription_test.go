@@ -19,7 +19,7 @@ package event_test
 import (
 	"fmt"
 
-	"github.com/Pond-International/go-ethereum/event"
+	"github.com/Pond-International/arb-go-ethereum/event"
 )
 
 func ExampleNewSubscription() {

@@ -21,8 +21,8 @@ import (
 	"math/rand"
 	"time"
 
-	"github.com/Pond-International/go-ethereum/common/mclock"
-	"github.com/Pond-International/go-ethereum/p2p/enode"
+	"github.com/Pond-International/arb-go-ethereum/common/mclock"
+	"github.com/Pond-International/arb-go-ethereum/p2p/enode"
 )
 
 // This is the number of consecutive leaf requests that may fail before

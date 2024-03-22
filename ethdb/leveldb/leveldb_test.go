@@ -19,8 +19,8 @@ package leveldb
 import (
 	"testing"
 
-	"github.com/Pond-International/go-ethereum/ethdb"
-	"github.com/Pond-International/go-ethereum/ethdb/dbtest"
+	"github.com/Pond-International/arb-go-ethereum/ethdb"
+	"github.com/Pond-International/arb-go-ethereum/ethdb/dbtest"
 	"github.com/syndtr/goleveldb/leveldb"
 	"github.com/syndtr/goleveldb/leveldb/storage"
 )

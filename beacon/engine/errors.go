@@ -17,8 +17,8 @@
 package engine
 
 import (
-	"github.com/Pond-International/go-ethereum/common"
-	"github.com/Pond-International/go-ethereum/rpc"
+	"github.com/Pond-International/arb-go-ethereum/common"
+	"github.com/Pond-International/arb-go-ethereum/rpc"
 )
 
 // EngineAPIError is a standardized error message between consensus and execution

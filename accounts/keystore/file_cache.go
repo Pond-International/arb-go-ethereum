@@ -23,7 +23,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Pond-International/go-ethereum/log"
+	"github.com/Pond-International/arb-go-ethereum/log"
 	mapset "github.com/deckarep/golang-set/v2"
 )
 

@@ -27,13 +27,13 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Pond-International/go-ethereum/accounts/abi/bind"
-	"github.com/Pond-International/go-ethereum/accounts/abi/bind/backends"
-	"github.com/Pond-International/go-ethereum/common"
-	"github.com/Pond-International/go-ethereum/contracts/checkpointoracle/contract"
-	"github.com/Pond-International/go-ethereum/core"
-	"github.com/Pond-International/go-ethereum/crypto"
-	"github.com/Pond-International/go-ethereum/params"
+	"github.com/Pond-International/arb-go-ethereum/accounts/abi/bind"
+	"github.com/Pond-International/arb-go-ethereum/accounts/abi/bind/backends"
+	"github.com/Pond-International/arb-go-ethereum/common"
+	"github.com/Pond-International/arb-go-ethereum/contracts/checkpointoracle/contract"
+	"github.com/Pond-International/arb-go-ethereum/core"
+	"github.com/Pond-International/arb-go-ethereum/crypto"
+	"github.com/Pond-International/arb-go-ethereum/params"
 )
 
 var (

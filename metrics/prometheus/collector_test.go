@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Pond-International/go-ethereum/metrics"
+	"github.com/Pond-International/arb-go-ethereum/metrics"
 )
 
 func TestMain(m *testing.M) {

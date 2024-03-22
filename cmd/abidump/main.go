@@ -23,8 +23,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/Pond-International/go-ethereum/signer/core/apitypes"
-	"github.com/Pond-International/go-ethereum/signer/fourbyte"
+	"github.com/Pond-International/arb-go-ethereum/signer/core/apitypes"
+	"github.com/Pond-International/arb-go-ethereum/signer/fourbyte"
 )
 
 func init() {

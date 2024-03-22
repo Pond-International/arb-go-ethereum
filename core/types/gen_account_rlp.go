@@ -5,7 +5,7 @@
 
 package types
 
-import "github.com/Pond-International/go-ethereum/rlp"
+import "github.com/Pond-International/arb-go-ethereum/rlp"
 import "io"
 
 func (obj *StateAccount) EncodeRLP(_w io.Writer) error {

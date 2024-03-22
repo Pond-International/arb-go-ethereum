@@ -27,7 +27,7 @@ import (
 	"testing"
 	"testing/quick"
 
-	"github.com/Pond-International/go-ethereum/metrics"
+	"github.com/Pond-International/arb-go-ethereum/metrics"
 	"github.com/davecgh/go-spew/spew"
 	"github.com/stretchr/testify/require"
 )

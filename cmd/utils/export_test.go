@@ -23,8 +23,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Pond-International/go-ethereum/core/rawdb"
-	"github.com/Pond-International/go-ethereum/rlp"
+	"github.com/Pond-International/arb-go-ethereum/core/rawdb"
+	"github.com/Pond-International/arb-go-ethereum/rlp"
 )
 
 // TestExport does basic sanity checks on the export/import functionality

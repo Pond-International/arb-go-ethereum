@@ -19,7 +19,7 @@ package snapshot
 import (
 	"bytes"
 
-	"github.com/Pond-International/go-ethereum/common"
+	"github.com/Pond-International/arb-go-ethereum/common"
 )
 
 // hashes is a helper to implement sort.Interface.

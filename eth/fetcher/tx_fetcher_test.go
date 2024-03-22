@@ -23,10 +23,10 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Pond-International/go-ethereum/common"
-	"github.com/Pond-International/go-ethereum/common/mclock"
-	"github.com/Pond-International/go-ethereum/core/txpool"
-	"github.com/Pond-International/go-ethereum/core/types"
+	"github.com/Pond-International/arb-go-ethereum/common"
+	"github.com/Pond-International/arb-go-ethereum/common/mclock"
+	"github.com/Pond-International/arb-go-ethereum/core/txpool"
+	"github.com/Pond-International/arb-go-ethereum/core/types"
 )
 
 var (

@@ -3,7 +3,7 @@ package arbitrum
 import (
 	"time"
 
-	"github.com/Pond-International/go-ethereum/eth"
+	"github.com/Pond-International/arb-go-ethereum/eth"
 )
 
 const (

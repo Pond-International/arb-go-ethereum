@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/Pond-International/go-ethereum/node"
+	"github.com/Pond-International/arb-go-ethereum/node"
 )
 
 // SampleLifecycle is a trivial network service that can be attached to a node for

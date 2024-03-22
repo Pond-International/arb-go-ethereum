@@ -21,8 +21,8 @@ import (
 	"os"
 	"strings"
 
-	"github.com/Pond-International/go-ethereum/accounts/keystore"
-	"github.com/Pond-International/go-ethereum/cmd/utils"
+	"github.com/Pond-International/arb-go-ethereum/accounts/keystore"
+	"github.com/Pond-International/arb-go-ethereum/cmd/utils"
 	"github.com/urfave/cli/v2"
 )
 

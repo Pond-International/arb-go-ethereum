@@ -23,9 +23,9 @@ import (
 	"sync/atomic"
 	"time"
 
-	"github.com/Pond-International/go-ethereum/accounts"
-	"github.com/Pond-International/go-ethereum/event"
-	"github.com/Pond-International/go-ethereum/log"
+	"github.com/Pond-International/arb-go-ethereum/accounts"
+	"github.com/Pond-International/arb-go-ethereum/event"
+	"github.com/Pond-International/arb-go-ethereum/log"
 	"github.com/karalabe/usb"
 )
 

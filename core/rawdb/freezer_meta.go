@@ -20,8 +20,8 @@ import (
 	"io"
 	"os"
 
-	"github.com/Pond-International/go-ethereum/log"
-	"github.com/Pond-International/go-ethereum/rlp"
+	"github.com/Pond-International/arb-go-ethereum/log"
+	"github.com/Pond-International/arb-go-ethereum/rlp"
 )
 
 const freezerVersion = 1 // The initial version tag of freezer table metadata

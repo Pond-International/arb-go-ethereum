@@ -16,7 +16,7 @@
 
 package state
 
-import "github.com/Pond-International/go-ethereum/metrics"
+import "github.com/Pond-International/arb-go-ethereum/metrics"
 
 var (
 	accountUpdatedMeter      = metrics.NewRegisteredMeter("state/update/account", nil)

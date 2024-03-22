@@ -26,8 +26,8 @@ import (
 	"net"
 	"strings"
 
-	"github.com/Pond-International/go-ethereum/p2p/enr"
-	"github.com/Pond-International/go-ethereum/rlp"
+	"github.com/Pond-International/arb-go-ethereum/p2p/enr"
+	"github.com/Pond-International/arb-go-ethereum/rlp"
 )
 
 var errMissingPrefix = errors.New("missing 'enr:' prefix for base64-encoded record")

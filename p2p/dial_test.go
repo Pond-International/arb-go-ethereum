@@ -27,11 +27,11 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Pond-International/go-ethereum/common/mclock"
-	"github.com/Pond-International/go-ethereum/internal/testlog"
-	"github.com/Pond-International/go-ethereum/log"
-	"github.com/Pond-International/go-ethereum/p2p/enode"
-	"github.com/Pond-International/go-ethereum/p2p/netutil"
+	"github.com/Pond-International/arb-go-ethereum/common/mclock"
+	"github.com/Pond-International/arb-go-ethereum/internal/testlog"
+	"github.com/Pond-International/arb-go-ethereum/log"
+	"github.com/Pond-International/arb-go-ethereum/p2p/enode"
+	"github.com/Pond-International/arb-go-ethereum/p2p/netutil"
 )
 
 // This test checks that dynamic dials are launched from discovery results.

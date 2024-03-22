@@ -39,24 +39,24 @@ import (
 	"sync"
 	"time"
 
-	"github.com/Pond-International/go-ethereum/accounts"
-	"github.com/Pond-International/go-ethereum/accounts/keystore"
-	"github.com/Pond-International/go-ethereum/cmd/utils"
-	"github.com/Pond-International/go-ethereum/common"
-	"github.com/Pond-International/go-ethereum/core"
-	"github.com/Pond-International/go-ethereum/core/types"
-	"github.com/Pond-International/go-ethereum/eth/downloader"
-	"github.com/Pond-International/go-ethereum/eth/ethconfig"
-	"github.com/Pond-International/go-ethereum/ethclient"
-	"github.com/Pond-International/go-ethereum/ethstats"
-	"github.com/Pond-International/go-ethereum/internal/version"
-	"github.com/Pond-International/go-ethereum/les"
-	"github.com/Pond-International/go-ethereum/log"
-	"github.com/Pond-International/go-ethereum/node"
-	"github.com/Pond-International/go-ethereum/p2p"
-	"github.com/Pond-International/go-ethereum/p2p/enode"
-	"github.com/Pond-International/go-ethereum/p2p/nat"
-	"github.com/Pond-International/go-ethereum/params"
+	"github.com/Pond-International/arb-go-ethereum/accounts"
+	"github.com/Pond-International/arb-go-ethereum/accounts/keystore"
+	"github.com/Pond-International/arb-go-ethereum/cmd/utils"
+	"github.com/Pond-International/arb-go-ethereum/common"
+	"github.com/Pond-International/arb-go-ethereum/core"
+	"github.com/Pond-International/arb-go-ethereum/core/types"
+	"github.com/Pond-International/arb-go-ethereum/eth/downloader"
+	"github.com/Pond-International/arb-go-ethereum/eth/ethconfig"
+	"github.com/Pond-International/arb-go-ethereum/ethclient"
+	"github.com/Pond-International/arb-go-ethereum/ethstats"
+	"github.com/Pond-International/arb-go-ethereum/internal/version"
+	"github.com/Pond-International/arb-go-ethereum/les"
+	"github.com/Pond-International/arb-go-ethereum/log"
+	"github.com/Pond-International/arb-go-ethereum/node"
+	"github.com/Pond-International/arb-go-ethereum/p2p"
+	"github.com/Pond-International/arb-go-ethereum/p2p/enode"
+	"github.com/Pond-International/arb-go-ethereum/p2p/nat"
+	"github.com/Pond-International/arb-go-ethereum/params"
 	"github.com/gorilla/websocket"
 )
 
@@ -463,7 +463,7 @@ func (f *faucet) apiHandler(w http.ResponseWriter, r *http.Request) {
 			id = username
 		default:
 			//lint:ignore ST1005 This error is to be displayed in the browser
-			err = errors.New("Something funky happened, please open an issue at https://github.com/Pond-International/go-ethereum/issues")
+			err = errors.New("Something funky happened, please open an issue at https://github.com/Pond-International/arb-go-ethereum/issues")
 		}
 		if err != nil {
 			if err = sendError(wsconn, err); err != nil {

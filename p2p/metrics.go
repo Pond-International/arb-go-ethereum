@@ -21,7 +21,7 @@ package p2p
 import (
 	"net"
 
-	"github.com/Pond-International/go-ethereum/metrics"
+	"github.com/Pond-International/arb-go-ethereum/metrics"
 )
 
 const (

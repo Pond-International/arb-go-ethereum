@@ -20,7 +20,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/Pond-International/go-ethereum/tests/fuzzers/difficulty"
+	"github.com/Pond-International/arb-go-ethereum/tests/fuzzers/difficulty"
 )
 
 func main() {

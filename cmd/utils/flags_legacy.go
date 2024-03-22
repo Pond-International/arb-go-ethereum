@@ -19,7 +19,7 @@ package utils
 import (
 	"fmt"
 
-	"github.com/Pond-International/go-ethereum/internal/flags"
+	"github.com/Pond-International/arb-go-ethereum/internal/flags"
 	"github.com/urfave/cli/v2"
 )
 

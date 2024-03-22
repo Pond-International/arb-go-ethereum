@@ -22,7 +22,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/Pond-International/go-ethereum/common"
+	"github.com/Pond-International/arb-go-ethereum/common"
 )
 
 // TestExport does a basic test of "geth export", exporting the test-genesis.

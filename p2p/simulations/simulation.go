@@ -20,7 +20,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/Pond-International/go-ethereum/p2p/enode"
+	"github.com/Pond-International/arb-go-ethereum/p2p/enode"
 )
 
 // Simulation provides a framework for running actions in a simulated network

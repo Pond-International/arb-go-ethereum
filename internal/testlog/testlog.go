@@ -21,7 +21,7 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/Pond-International/go-ethereum/log"
+	"github.com/Pond-International/arb-go-ethereum/log"
 )
 
 // Handler returns a log handler which logs to the unit test log of t.

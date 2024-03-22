@@ -25,12 +25,12 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Pond-International/go-ethereum/common"
-	"github.com/Pond-International/go-ethereum/consensus/ethash"
-	"github.com/Pond-International/go-ethereum/core/rawdb"
-	"github.com/Pond-International/go-ethereum/core/types"
-	"github.com/Pond-International/go-ethereum/core/vm"
-	"github.com/Pond-International/go-ethereum/params"
+	"github.com/Pond-International/arb-go-ethereum/common"
+	"github.com/Pond-International/arb-go-ethereum/consensus/ethash"
+	"github.com/Pond-International/arb-go-ethereum/core/rawdb"
+	"github.com/Pond-International/arb-go-ethereum/core/types"
+	"github.com/Pond-International/arb-go-ethereum/core/vm"
+	"github.com/Pond-International/arb-go-ethereum/params"
 )
 
 // Tests a recovery for a short canonical chain where a recent block was already
@@ -1874,7 +1874,7 @@ func testRepair(t *testing.T, tt *rewindTest, snapshots bool) {
 	}
 }
 
-// TestIssue23496 tests scenario described in https://github.com/Pond-International/go-ethereum/pull/23496#issuecomment-926393893
+// TestIssue23496 tests scenario described in https://github.com/Pond-International/arb-go-ethereum/pull/23496#issuecomment-926393893
 // Credits to @zzyalbert for finding the issue.
 //
 // Local chain owns these blocks:

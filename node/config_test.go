@@ -23,8 +23,8 @@ import (
 	"runtime"
 	"testing"
 
-	"github.com/Pond-International/go-ethereum/crypto"
-	"github.com/Pond-International/go-ethereum/p2p"
+	"github.com/Pond-International/arb-go-ethereum/crypto"
+	"github.com/Pond-International/arb-go-ethereum/p2p"
 )
 
 // Tests that datadirs can be successfully created, be them manually configured

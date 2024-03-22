@@ -19,11 +19,11 @@ package core
 import (
 	"sync/atomic"
 
-	"github.com/Pond-International/go-ethereum/consensus"
-	"github.com/Pond-International/go-ethereum/core/state"
-	"github.com/Pond-International/go-ethereum/core/types"
-	"github.com/Pond-International/go-ethereum/core/vm"
-	"github.com/Pond-International/go-ethereum/params"
+	"github.com/Pond-International/arb-go-ethereum/consensus"
+	"github.com/Pond-International/arb-go-ethereum/core/state"
+	"github.com/Pond-International/arb-go-ethereum/core/types"
+	"github.com/Pond-International/arb-go-ethereum/core/vm"
+	"github.com/Pond-International/arb-go-ethereum/params"
 )
 
 // statePrefetcher is a basic Prefetcher, which blindly executes a block on top

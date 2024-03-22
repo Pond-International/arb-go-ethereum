@@ -26,8 +26,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Pond-International/go-ethereum/common/hexutil"
-	"github.com/Pond-International/go-ethereum/rpc"
+	"github.com/Pond-International/arb-go-ethereum/common/hexutil"
+	"github.com/Pond-International/arb-go-ethereum/rpc"
 	"github.com/golang-jwt/jwt/v4"
 )
 

@@ -17,7 +17,7 @@
 package vm
 
 import (
-	"github.com/Pond-International/go-ethereum/params"
+	"github.com/Pond-International/arb-go-ethereum/params"
 )
 
 func minSwapStack(n int) int {

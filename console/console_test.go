@@ -25,15 +25,15 @@ import (
 	"testing"
 	"time"
 
-	"github.com/Pond-International/go-ethereum/common"
-	"github.com/Pond-International/go-ethereum/consensus/ethash"
-	"github.com/Pond-International/go-ethereum/console/prompt"
-	"github.com/Pond-International/go-ethereum/core"
-	"github.com/Pond-International/go-ethereum/eth"
-	"github.com/Pond-International/go-ethereum/eth/ethconfig"
-	"github.com/Pond-International/go-ethereum/internal/jsre"
-	"github.com/Pond-International/go-ethereum/miner"
-	"github.com/Pond-International/go-ethereum/node"
+	"github.com/Pond-International/arb-go-ethereum/common"
+	"github.com/Pond-International/arb-go-ethereum/consensus/ethash"
+	"github.com/Pond-International/arb-go-ethereum/console/prompt"
+	"github.com/Pond-International/arb-go-ethereum/core"
+	"github.com/Pond-International/arb-go-ethereum/eth"
+	"github.com/Pond-International/arb-go-ethereum/eth/ethconfig"
+	"github.com/Pond-International/arb-go-ethereum/internal/jsre"
+	"github.com/Pond-International/arb-go-ethereum/miner"
+	"github.com/Pond-International/arb-go-ethereum/node"
 )
 
 const (

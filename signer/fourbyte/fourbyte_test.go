@@ -21,8 +21,8 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Pond-International/go-ethereum/accounts/abi"
-	"github.com/Pond-International/go-ethereum/common"
+	"github.com/Pond-International/arb-go-ethereum/accounts/abi"
+	"github.com/Pond-International/arb-go-ethereum/common"
 )
 
 // Tests that all the selectors contained in the 4byte database are valid.

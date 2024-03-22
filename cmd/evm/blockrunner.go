@@ -22,8 +22,8 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/Pond-International/go-ethereum/log"
-	"github.com/Pond-International/go-ethereum/tests"
+	"github.com/Pond-International/arb-go-ethereum/log"
+	"github.com/Pond-International/arb-go-ethereum/tests"
 	"github.com/urfave/cli/v2"
 )
 

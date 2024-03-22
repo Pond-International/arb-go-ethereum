@@ -22,9 +22,9 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/Pond-International/go-ethereum/common"
-	"github.com/Pond-International/go-ethereum/core/types"
-	"github.com/Pond-International/go-ethereum/log"
+	"github.com/Pond-International/arb-go-ethereum/common"
+	"github.com/Pond-International/arb-go-ethereum/core/types"
+	"github.com/Pond-International/arb-go-ethereum/log"
 )
 
 // Trie is a Merkle Patricia Trie. Use New to create a trie that sits on

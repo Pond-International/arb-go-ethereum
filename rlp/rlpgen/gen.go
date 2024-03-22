@@ -23,7 +23,7 @@ import (
 	"go/types"
 	"sort"
 
-	"github.com/Pond-International/go-ethereum/rlp/internal/rlpstruct"
+	"github.com/Pond-International/arb-go-ethereum/rlp/internal/rlpstruct"
 )
 
 // buildContext keeps the data needed for make*Op.

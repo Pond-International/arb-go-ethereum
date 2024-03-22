@@ -3,7 +3,7 @@ package types
 import (
 	"math/big"
 
-	"github.com/Pond-International/go-ethereum/common"
+	"github.com/Pond-International/arb-go-ethereum/common"
 )
 
 var ArbosAddress = common.HexToAddress("0xa4b05")

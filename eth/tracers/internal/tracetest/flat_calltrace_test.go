@@ -10,17 +10,17 @@ import (
 	"strings"
 	"testing"
 
-	"github.com/Pond-International/go-ethereum/common"
-	"github.com/Pond-International/go-ethereum/common/hexutil"
-	"github.com/Pond-International/go-ethereum/core"
-	"github.com/Pond-International/go-ethereum/core/rawdb"
-	"github.com/Pond-International/go-ethereum/core/types"
-	"github.com/Pond-International/go-ethereum/core/vm"
-	"github.com/Pond-International/go-ethereum/rlp"
-	"github.com/Pond-International/go-ethereum/tests"
+	"github.com/Pond-International/arb-go-ethereum/common"
+	"github.com/Pond-International/arb-go-ethereum/common/hexutil"
+	"github.com/Pond-International/arb-go-ethereum/core"
+	"github.com/Pond-International/arb-go-ethereum/core/rawdb"
+	"github.com/Pond-International/arb-go-ethereum/core/types"
+	"github.com/Pond-International/arb-go-ethereum/core/vm"
+	"github.com/Pond-International/arb-go-ethereum/rlp"
+	"github.com/Pond-International/arb-go-ethereum/tests"
 
 	// Force-load the native, to trigger registration
-	"github.com/Pond-International/go-ethereum/eth/tracers"
+	"github.com/Pond-International/arb-go-ethereum/eth/tracers"
 )
 
 // flatCallTrace is the result of a callTracerParity run.

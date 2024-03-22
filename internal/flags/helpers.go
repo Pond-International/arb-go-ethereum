@@ -20,8 +20,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/Pond-International/go-ethereum/internal/version"
-	"github.com/Pond-International/go-ethereum/params"
+	"github.com/Pond-International/arb-go-ethereum/internal/version"
+	"github.com/Pond-International/arb-go-ethereum/params"
 	"github.com/urfave/cli/v2"
 )
 

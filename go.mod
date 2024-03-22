@@ -1,4 +1,4 @@
-module github.com/Pond-International/go-ethereum
+module github.com/Pond-International/arb-go-ethereum
 
 go 1.19
 

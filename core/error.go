@@ -19,7 +19,7 @@ package core
 import (
 	"errors"
 
-	"github.com/Pond-International/go-ethereum/core/types"
+	"github.com/Pond-International/arb-go-ethereum/core/types"
 )
 
 var (

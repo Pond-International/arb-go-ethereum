@@ -21,10 +21,10 @@ import (
 	"sort"
 	"time"
 
-	"github.com/Pond-International/go-ethereum/common"
-	"github.com/Pond-International/go-ethereum/common/prque"
-	"github.com/Pond-International/go-ethereum/eth/protocols/eth"
-	"github.com/Pond-International/go-ethereum/log"
+	"github.com/Pond-International/arb-go-ethereum/common"
+	"github.com/Pond-International/arb-go-ethereum/common/prque"
+	"github.com/Pond-International/arb-go-ethereum/eth/protocols/eth"
+	"github.com/Pond-International/arb-go-ethereum/log"
 )
 
 // timeoutGracePeriod is the amount of time to allow for a peer to deliver a

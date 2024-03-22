@@ -3,9 +3,9 @@ package arbitrum
 import (
 	"context"
 
-	"github.com/Pond-International/go-ethereum/arbitrum_types"
-	"github.com/Pond-International/go-ethereum/core"
-	"github.com/Pond-International/go-ethereum/core/types"
+	"github.com/Pond-International/arb-go-ethereum/arbitrum_types"
+	"github.com/Pond-International/arb-go-ethereum/core"
+	"github.com/Pond-International/arb-go-ethereum/core/types"
 )
 
 type ArbInterface interface {

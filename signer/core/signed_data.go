@@ -23,14 +23,14 @@ import (
 	"fmt"
 	"mime"
 
-	"github.com/Pond-International/go-ethereum/accounts"
-	"github.com/Pond-International/go-ethereum/common"
-	"github.com/Pond-International/go-ethereum/common/hexutil"
-	"github.com/Pond-International/go-ethereum/consensus/clique"
-	"github.com/Pond-International/go-ethereum/core/types"
-	"github.com/Pond-International/go-ethereum/crypto"
-	"github.com/Pond-International/go-ethereum/rlp"
-	"github.com/Pond-International/go-ethereum/signer/core/apitypes"
+	"github.com/Pond-International/arb-go-ethereum/accounts"
+	"github.com/Pond-International/arb-go-ethereum/common"
+	"github.com/Pond-International/arb-go-ethereum/common/hexutil"
+	"github.com/Pond-International/arb-go-ethereum/consensus/clique"
+	"github.com/Pond-International/arb-go-ethereum/core/types"
+	"github.com/Pond-International/arb-go-ethereum/crypto"
+	"github.com/Pond-International/arb-go-ethereum/rlp"
+	"github.com/Pond-International/arb-go-ethereum/signer/core/apitypes"
 )
 
 // sign receives a request and produces a signature
@@ -302,7 +302,7 @@ func (api *SignerAPI) EcRecover(ctx context.Context, data hexutil.Bytes, sig hex
 	// Note, the signature must conform to the secp256k1 curve R, S and V values, where
 	// the V value must be 27 or 28 for legacy reasons.
 	//
-	// https://github.com/Pond-International/go-ethereum/wiki/Management-APIs#personal_ecRecover
+	// https://github.com/Pond-International/arb-go-ethereum/wiki/Management-APIs#personal_ecRecover
 	if len(sig) != 65 {
 		return common.Address{}, fmt.Errorf("signature must be 65 bytes long")
 	}

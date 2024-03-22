@@ -19,7 +19,7 @@ package server
 import (
 	"reflect"
 
-	"github.com/Pond-International/go-ethereum/p2p/nodestate"
+	"github.com/Pond-International/arb-go-ethereum/p2p/nodestate"
 )
 
 type peerWrapper struct{ clientPeer } // the NodeStateMachine type system needs this wrapper

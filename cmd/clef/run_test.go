@@ -21,7 +21,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/Pond-International/go-ethereum/internal/cmdtest"
+	"github.com/Pond-International/arb-go-ethereum/internal/cmdtest"
 	"github.com/docker/docker/pkg/reexec"
 )
 

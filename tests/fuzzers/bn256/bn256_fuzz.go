@@ -25,8 +25,8 @@ import (
 	"io"
 	"math/big"
 
-	cloudflare "github.com/Pond-International/go-ethereum/crypto/bn256/cloudflare"
-	google "github.com/Pond-International/go-ethereum/crypto/bn256/google"
+	cloudflare "github.com/Pond-International/arb-go-ethereum/crypto/bn256/cloudflare"
+	google "github.com/Pond-International/arb-go-ethereum/crypto/bn256/google"
 	"github.com/consensys/gnark-crypto/ecc/bn254"
 )
 

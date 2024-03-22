@@ -4,8 +4,8 @@ import (
 	"bytes"
 	"errors"
 
-	"github.com/Pond-International/go-ethereum/common"
-	"github.com/Pond-International/go-ethereum/rlp"
+	"github.com/Pond-International/arb-go-ethereum/common"
+	"github.com/Pond-International/arb-go-ethereum/rlp"
 )
 
 type ArbitrumLegacyTxData struct {

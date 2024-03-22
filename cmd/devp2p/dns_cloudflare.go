@@ -21,8 +21,8 @@ import (
 	"fmt"
 	"strings"
 
-	"github.com/Pond-International/go-ethereum/log"
-	"github.com/Pond-International/go-ethereum/p2p/dnsdisc"
+	"github.com/Pond-International/arb-go-ethereum/log"
+	"github.com/Pond-International/arb-go-ethereum/p2p/dnsdisc"
 	"github.com/cloudflare/cloudflare-go"
 	"github.com/urfave/cli/v2"
 )

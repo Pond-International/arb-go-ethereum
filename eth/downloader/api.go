@@ -20,9 +20,9 @@ import (
 	"context"
 	"sync"
 
-	"github.com/Pond-International/go-ethereum"
-	"github.com/Pond-International/go-ethereum/event"
-	"github.com/Pond-International/go-ethereum/rpc"
+	"github.com/Pond-International/arb-go-ethereum"
+	"github.com/Pond-International/arb-go-ethereum/event"
+	"github.com/Pond-International/arb-go-ethereum/rpc"
 )
 
 // DownloaderAPI provides an API which gives information about the current synchronisation status.

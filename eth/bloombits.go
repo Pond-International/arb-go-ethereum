@@ -19,10 +19,10 @@ package eth
 import (
 	"time"
 
-	"github.com/Pond-International/go-ethereum/common/bitutil"
-	"github.com/Pond-International/go-ethereum/core/bloombits"
-	"github.com/Pond-International/go-ethereum/core/rawdb"
-	"github.com/Pond-International/go-ethereum/ethdb"
+	"github.com/Pond-International/arb-go-ethereum/common/bitutil"
+	"github.com/Pond-International/arb-go-ethereum/core/bloombits"
+	"github.com/Pond-International/arb-go-ethereum/core/rawdb"
+	"github.com/Pond-International/arb-go-ethereum/ethdb"
 )
 
 const (

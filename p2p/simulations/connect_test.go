@@ -19,9 +19,9 @@ package simulations
 import (
 	"testing"
 
-	"github.com/Pond-International/go-ethereum/node"
-	"github.com/Pond-International/go-ethereum/p2p/enode"
-	"github.com/Pond-International/go-ethereum/p2p/simulations/adapters"
+	"github.com/Pond-International/arb-go-ethereum/node"
+	"github.com/Pond-International/arb-go-ethereum/p2p/enode"
+	"github.com/Pond-International/arb-go-ethereum/p2p/simulations/adapters"
 )
 
 func newTestNetwork(t *testing.T, nodeCount int) (*Network, []enode.ID) {
